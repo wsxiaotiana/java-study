@@ -1,0 +1,6 @@
+[submodule "java-studycodes"]
+	path = java-studycodes
+	url = https://github.com/wsxiaotiana/java-studycodes.git
+[submodule "spring-cloud-study"]
+	path = spring-cloud-study
+	url = https://github.com/wsxiaotiana/spring-cloud-study.git
